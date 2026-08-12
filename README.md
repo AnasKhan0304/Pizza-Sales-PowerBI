@@ -81,26 +81,6 @@ This dashboard can be used to answer questions such as:
 5. Which pizza sizes are ordered most frequently?
 6. Which ingredients have the highest demand?
 
-## 📁 Repository Contents
-
-```text
-Pizza-Sales-PowerBI/
-├── PowerBI/
-│   └── Pizza_Sales_Dashboard.pbix
-├── Screenshots/
-├── Documentation/
-└── README.md
-```
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `PowerBI/Pizza_Sales_Dashboard.pbix` using Microsoft Power BI Desktop.
-3. Interact with the dashboard using the available filters and visuals.
-
-## 📸 Dashboard Preview
-
-Screenshots will be added to this section once the report pages are exported from Power BI.
 
 ## 📌 Project Type
 
